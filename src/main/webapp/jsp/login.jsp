@@ -153,7 +153,7 @@
         <!-- Footer -->
         <div class="text-center mt-6">
             <p class="text-gray-500 text-sm">
-                © 2024 Habit Tracker. Build better habits daily.
+                © 2025 Habit Tracker. Build better habits daily.
             </p>
         </div>
     </div>
